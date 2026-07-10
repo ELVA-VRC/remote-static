@@ -1,0 +1,8 @@
+# Private source data should stay in F:\UNITY\ELVARIANS, not this public repo.
+*.private*.json
+*.secret.*
+*.local.*
+.env
+
+# Local publish reports
+publish-reports/
