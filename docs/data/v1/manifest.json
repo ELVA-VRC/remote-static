@@ -1,951 +1,951 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-07-10T02:13:54Z",
-    "contentVersion":  "20260710021354",
+    "generatedAt":  "2026-07-10T02:37:49Z",
+    "contentVersion":  "20260710023749",
     "minWorldVersion":  "0.0.0",
     "hashVersion":  "dummy-v1",
-    "hashRecipeId":  "display-name-sha256-v1",
-    "sourceBuildId":  "39d20bb73118097af8100f2eab257df2e40c20a6a1eafa875354e644450b6fbd",
+    "hashRecipeId":  "display-name-udon-stable-v1",
+    "sourceBuildId":  "9266cbbe8eefdf3e7537890ccabdcbad1344ff8d96fbd0db586212b95ae33ab2",
     "supportersByHash":  {
-                             "966dadcab2ef231c0419316d2b3ab4a11edda80b4a9f1e34d832a307f5447b27":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-01T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-08T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "d82470a5c1608a8e6b88a47aec20076b7d0fb6165a5b5cd9498410a4be30b07d":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-01T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-08T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "2fff6bb8af7a93e10eab4182c8cc24c831bcb670fe4fff414433ea69d2ea9f47":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-01T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-08T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "5c25333ded3f50e6d187bbfe86162422ebc6734ccc2d6797b1eb744c524e13b2":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-02T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-09T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "617c6726ced1d88ac394f93ced743aab93572b021528e6f6b17c30187ff4b831":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-02T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-09T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "5bf63bda815320006d715b8e392f79d24b852609e3c31aea616e27e06628729e":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-02T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-09T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  false,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "6375fa3d5892c4535c8c111d95f36eed87f40594f0913a0193c713d4a379e350":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-02T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-09T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "5764f4a654a1adcc231bbdf0723cf8d66b479dc4aaf8c1fe5f6827effa195b49":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-02T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-09T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "69cd1640ae31d912d4691868fd9694ed140c3c0c2180a49186df0917eafddcd5":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-03T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-10T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "1bbf5f8bfaac147abb08ee56b7cfe51e8910b2a1fbc1def76933b0a4d398c0d5":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-03T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-10T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "5473e56f463c10c08e3212f3dc8a6ec4bd50e61221cd472d86fe1392bfc29b76":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-03T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-10T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  false,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "e8d5e15b78a7eb4b0ddb7387a4bb25c0ec1051d75213455c0fee4680573b3c0d":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-03T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-10T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "f6b3f23e16dea5fe9ad790160f27daa2d028c5206ff981ea21cdd94b26840363":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-03T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-10T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "8cd9934aa0f37592b7ac182961e68d820231b54bfefbd475a6cc86f42a9412df":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-03T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-10T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "db0a73366b9002ec2bcad7cb7352dd0ecf72fae0ef68ca8e734682fd8267dc20":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-03T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-10T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "727d439af5c40b05befec19971ca9e60912653a328b68a7c3f03bdfba7f402b8":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "55f5b2614848cfe776d646881777aefc0ac976cba96976c4cbd978ef2a915cd5":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "4b3e0a24500be3ac7e52cf13e045493041c09155fc80be2f4c0b7aa12b69d0bf":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "b5d58a8628d2b014e09febfeedb377010aaec293532109a527f1fb94ced9606b":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  false,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "3b3c84e747edee2c48311bc16e5b914c9bf381629af47ae27586b3c2b7a71a1a":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "f7a40688d6cc738af6a848414ebb64c2a4950b585ad1e82f20ab98b5a81bd563":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "1e5da7fe11fdd32f0c0b80d13a68e76019e68decd1b903c8186ce8abc45e0034":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "5f1513ad096fe51bed90578b7363ff316f023330611023ee54689240d21e2fea":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-04T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-11T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "d416808293b401c991aa5d15cbb5a0d7d4c0440253da746c55ae543e3414f148":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "8f361e67f69551260fa0aec907557b52ba99c90460540c3761d91d38f3231d83":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "6d8b55f4907472953d9df33d09c548ba497ae628d260e5f028788bf03fb37c21":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "34a1d7aee002ba6960ccb1c46b01e75127a63774167dad54590cd2ecec5d863f":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  false,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "7653011734108dfc0ca396b52cbb521292ae6dc732f2d0a809e201b45a905c3f":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "0cd46c1f118607579ee4a346e150ad761ebe6fe009fdae8892994c42f63fa6b7":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "685b4d3c0a38056742edeff6619a1c678d70f60cc123f6c2cc47d47e2c742cca":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "b87750763c6ec0d5fba707d24cc18cfb8df4b4d2f45d0b90d04056d887a578fc":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "9e1f2cd923682407d8539804464f54669eb2c4b3d416b402a6bf2f2fbe95fb46":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "1a916beb4e71ecd87d8f85befdf7258a2d7bd1785202f3f9b7533524f3e36c73":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "c3646a143495aacaebc8289ef9878e7b67b162cce562f6dc6580fada81f9548a":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "ed23e4255f12ae9fd6152ef40cc30a773fbbf2b478ecca85792601b3f400b9db":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "ef9c1e61c7f31c30f1fe9d91c581f7dbe51f2e5dab1a8f7cce75e63edc2c1675":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  false,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "dd0eb7c1656b1a1f83ff6f2ec494945ae600f04083c4530d98b886c1893826e5":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "5e1c6eaf2acc2e9b4269ced711ab78c61ae858408ac9db856d20b83ae7560ed8":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-07T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-14T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "3e827d05804479ab123414348b1c9a10bab05c0c86c6edf4bc0f7fa40fb37371":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-07T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-14T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "6fe6e6d7bd9f08e182bc0f36c0a50b2145e01ea8c194379b8ecba110a9b1a787":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-07T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-14T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "4c25d62ea08e0982585556c5b54b7c38c96b5e2956430b17f16fcfeb455f0c0e":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-07T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-14T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "24efcf80ba7df298631625732af4ff7b6f2e7f6a2075ba9ee16648403dadf05d":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-07T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-14T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "f7cdc01dabbc1fefff319738e0de0bbf1ccd274a783e001ad5b8855eaff0d6d7":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "active",
-                                                                                                      "expiresAt":  "2026-08-07T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-14T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "cc61313014d9aaab5cec9aa16626a88f88154534419f613e555b5ee9c4174822":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "grace",
-                                                                                                      "expiresAt":  "2026-07-05T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-07-12T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "dbedd1962691e70f3bcb05310485acc923e39f98197d58ac3d56b825ec8b23b0":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "grace",
-                                                                                                      "expiresAt":  "2026-07-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-07-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "9cc035962283d9828edbd78658758fec2113c4929fe394aa15350d33400ffeba":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "grace",
-                                                                                                      "expiresAt":  "2026-07-06T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-07-13T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "f841b190850e2e5d150e814f2d6135d12a5838b1eb38334cf77dc39dd23ec0f7":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "grace",
-                                                                                                      "expiresAt":  "2026-07-07T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-07-14T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "205b5d3374838774225bd7ac21a13bbdb2747740600159d010794d1cc410f20a":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "grace",
-                                                                                                      "expiresAt":  "2026-07-08T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-07-15T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  false,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "af5bac9c62361e56acd1f396a211933c2ab32596a8ddb4be89c5b5f6b4f93967":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "grace",
-                                                                                                      "expiresAt":  "2026-07-09T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-07-16T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "e762eecb6362f63e3adbbc4a858458b968d18f2506aefd339e86db39aa9015f5":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "canceled",
-                                                                                                      "expiresAt":  "2026-08-12T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-19T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "19e89ae2463ac94d4a5e05ca39ffe3f65013e4d22944072ebdba6de4b1c11803":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "canceled",
-                                                                                                      "expiresAt":  "2026-08-13T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-20T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "cb358b601b66fd6b2eab88000e1b40d1981ae5e294092e981f8f44445f8afb40":  {
-                                                                                                      "tierId":  "tide_friend",
-                                                                                                      "tierRank":  1,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "canceled",
-                                                                                                      "expiresAt":  "2026-08-13T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-20T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "soft_tide",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "78bcc8ec4385f91afa9900af63075cfb036cfef8c533e068555f2b24d7c75750":  {
-                                                                                                      "tierId":  "tide_archivist",
-                                                                                                      "tierRank":  3,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "canceled",
-                                                                                                      "expiresAt":  "2026-08-14T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-21T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "archive_violet",
-                                                                                                      "boardVisible":  false,
-                                                                                                      "tierVisible":  false
-                                                                                                  },
-                             "3c532a3fea3bb2efa837671632758e6fbc048049ee9f3e949f460d7bff9e9d7a":  {
-                                                                                                      "tierId":  "tide_anchor",
-                                                                                                      "tierRank":  4,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "canceled",
-                                                                                                      "expiresAt":  "2026-08-15T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-22T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "diary.monthlyKey",
-                                                                                                                    "roomlog.badge",
-                                                                                                                    "style.priority",
-                                                                                                                    "wall.name"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "anchor_blue",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  },
-                             "929fd919d1f22b2c5d7e84854d181c46cc830537a5e6af80d5eb51a4fb60a60c":  {
-                                                                                                      "tierId":  "tide_keeper",
-                                                                                                      "tierRank":  2,
-                                                                                                      "active":  true,
-                                                                                                      "status":  "canceled",
-                                                                                                      "expiresAt":  "2026-08-16T00:00:00Z",
-                                                                                                      "graceUntil":  "2026-08-23T00:00:00Z",
-                                                                                                      "flags":  [
-                                                                                                                    "board.tierVisible",
-                                                                                                                    "board.visible",
-                                                                                                                    "diary.access",
-                                                                                                                    "roomlog.badge"
-                                                                                                                ],
-                                                                                                      "displayStyleId":  "keeper_gold",
-                                                                                                      "boardVisible":  true,
-                                                                                                      "tierVisible":  true
-                                                                                                  }
+                             "u912080678_255866113":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-01T00:00:00Z",
+                                                          "graceUntil":  "2026-08-08T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u785105045_202704826":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-01T00:00:00Z",
+                                                          "graceUntil":  "2026-08-08T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u682331339_171306259":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-01T00:00:00Z",
+                                                          "graceUntil":  "2026-08-08T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u658129412_149543539":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-02T00:00:00Z",
+                                                          "graceUntil":  "2026-08-09T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u531153779_96382252":  {
+                                                         "tierId":  "tide_anchor",
+                                                         "tierRank":  4,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-02T00:00:00Z",
+                                                         "graceUntil":  "2026-08-09T00:00:00Z",
+                                                         "flags":  [
+                                                                       "board.tierVisible",
+                                                                       "board.visible",
+                                                                       "diary.access",
+                                                                       "diary.monthlyKey",
+                                                                       "roomlog.badge",
+                                                                       "style.priority",
+                                                                       "wall.name"
+                                                                   ],
+                                                         "displayStyleId":  "anchor_blue",
+                                                         "boardVisible":  true,
+                                                         "tierVisible":  true
+                                                     },
+                             "u404178146_43220965":  {
+                                                         "tierId":  "tide_friend",
+                                                         "tierRank":  1,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-02T00:00:00Z",
+                                                         "graceUntil":  "2026-08-09T00:00:00Z",
+                                                         "flags":  [
+                                                                       "diary.access"
+                                                                   ],
+                                                         "displayStyleId":  "soft_tide",
+                                                         "boardVisible":  false,
+                                                         "tierVisible":  false
+                                                     },
+                             "u277202513_990059687":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-02T00:00:00Z",
+                                                          "graceUntil":  "2026-08-09T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u732685826_428340925":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-02T00:00:00Z",
+                                                          "graceUntil":  "2026-08-09T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u150226880_936898400":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-03T00:00:00Z",
+                                                          "graceUntil":  "2026-08-10T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u23251247_883737113":  {
+                                                         "tierId":  "tide_archivist",
+                                                         "tierRank":  3,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-03T00:00:00Z",
+                                                         "graceUntil":  "2026-08-10T00:00:00Z",
+                                                         "flags":  [
+                                                                       "board.tierVisible",
+                                                                       "board.visible",
+                                                                       "diary.access",
+                                                                       "diary.monthlyKey",
+                                                                       "roomlog.badge",
+                                                                       "wall.name"
+                                                                   ],
+                                                         "displayStyleId":  "archive_violet",
+                                                         "boardVisible":  true,
+                                                         "tierVisible":  true
+                                                     },
+                             "u896275621_830575826":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-03T00:00:00Z",
+                                                          "graceUntil":  "2026-08-10T00:00:00Z",
+                                                          "flags":  [
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  false,
+                                                          "tierVisible":  false
+                                                      },
+                             "u405248500_646576767":  {
+                                                          "tierId":  "tide_anchor",
+                                                          "tierRank":  4,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-03T00:00:00Z",
+                                                          "graceUntil":  "2026-08-10T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "style.priority",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "anchor_blue",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u731544660_69763102":  {
+                                                         "tierId":  "tide_anchor",
+                                                         "tierRank":  4,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-03T00:00:00Z",
+                                                         "graceUntil":  "2026-08-10T00:00:00Z",
+                                                         "flags":  [
+                                                                       "board.tierVisible",
+                                                                       "board.visible",
+                                                                       "diary.access",
+                                                                       "diary.monthlyKey",
+                                                                       "roomlog.badge",
+                                                                       "style.priority",
+                                                                       "wall.name"
+                                                                   ],
+                                                         "displayStyleId":  "anchor_blue",
+                                                         "boardVisible":  true,
+                                                         "tierVisible":  true
+                                                     },
+                             "u278272867_593415480":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-03T00:00:00Z",
+                                                          "graceUntil":  "2026-08-10T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u151297234_540254193":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-03T00:00:00Z",
+                                                          "graceUntil":  "2026-08-10T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u24321601_487092906":  {
+                                                         "tierId":  "tide_archivist",
+                                                         "tierRank":  3,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-04T00:00:00Z",
+                                                         "graceUntil":  "2026-08-11T00:00:00Z",
+                                                         "flags":  [
+                                                                       "board.tierVisible",
+                                                                       "board.visible",
+                                                                       "diary.access",
+                                                                       "diary.monthlyKey",
+                                                                       "roomlog.badge",
+                                                                       "wall.name"
+                                                                   ],
+                                                         "displayStyleId":  "archive_violet",
+                                                         "boardVisible":  true,
+                                                         "tierVisible":  true
+                                                     },
+                             "u312089154_229603034":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-04T00:00:00Z",
+                                                          "graceUntil":  "2026-08-11T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u897345975_433931619":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-04T00:00:00Z",
+                                                          "graceUntil":  "2026-08-11T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u770370342_380770332":  {
+                                                          "tierId":  "tide_anchor",
+                                                          "tierRank":  4,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-04T00:00:00Z",
+                                                          "graceUntil":  "2026-08-11T00:00:00Z",
+                                                          "flags":  [
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "style.priority",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "anchor_blue",
+                                                          "boardVisible":  false,
+                                                          "tierVisible":  false
+                                                      },
+                             "u643394709_327609045":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-04T00:00:00Z",
+                                                          "graceUntil":  "2026-08-11T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u516419076_274447758":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-04T00:00:00Z",
+                                                          "graceUntil":  "2026-08-11T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u389443443_221286471":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-04T00:00:00Z",
+                                                          "graceUntil":  "2026-08-11T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u726226279_635081214":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-04T00:00:00Z",
+                                                          "graceUntil":  "2026-08-11T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u262467810_168125184":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-05T00:00:00Z",
+                                                          "graceUntil":  "2026-08-12T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u771440696_984126134":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-05T00:00:00Z",
+                                                          "graceUntil":  "2026-08-12T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u644465063_930964847":  {
+                                                          "tierId":  "tide_anchor",
+                                                          "tierRank":  4,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-05T00:00:00Z",
+                                                          "graceUntil":  "2026-08-12T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "style.priority",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "anchor_blue",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u517489430_877803560":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-05T00:00:00Z",
+                                                          "graceUntil":  "2026-08-12T00:00:00Z",
+                                                          "flags":  [
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  false,
+                                                          "tierVisible":  false
+                                                      },
+                             "u390513797_824642273":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-05T00:00:00Z",
+                                                          "graceUntil":  "2026-08-12T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u89383469_696567161":  {
+                                                         "tierId":  "tide_keeper",
+                                                         "tierRank":  2,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-05T00:00:00Z",
+                                                         "graceUntil":  "2026-08-12T00:00:00Z",
+                                                         "flags":  [
+                                                                       "board.tierVisible",
+                                                                       "board.visible",
+                                                                       "diary.access",
+                                                                       "roomlog.badge"
+                                                                   ],
+                                                         "displayStyleId":  "keeper_gold",
+                                                         "boardVisible":  true,
+                                                         "tierVisible":  true
+                                                     },
+                             "u263538164_771480986":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-05T00:00:00Z",
+                                                          "graceUntil":  "2026-08-12T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u136562531_718319699":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-06T00:00:00Z",
+                                                          "graceUntil":  "2026-08-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u9586898_665158412":  {
+                                                        "tierId":  "tide_keeper",
+                                                        "tierRank":  2,
+                                                        "active":  true,
+                                                        "status":  "active",
+                                                        "expiresAt":  "2026-08-06T00:00:00Z",
+                                                        "graceUntil":  "2026-08-13T00:00:00Z",
+                                                        "flags":  [
+                                                                      "board.tierVisible",
+                                                                      "board.visible",
+                                                                      "diary.access",
+                                                                      "roomlog.badge"
+                                                                  ],
+                                                        "displayStyleId":  "keeper_gold",
+                                                        "boardVisible":  true,
+                                                        "tierVisible":  false
+                                                    },
+                             "u882611272_611997125":  {
+                                                          "tierId":  "tide_anchor",
+                                                          "tierRank":  4,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-06T00:00:00Z",
+                                                          "graceUntil":  "2026-08-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "style.priority",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "anchor_blue",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u755635639_558835838":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-06T00:00:00Z",
+                                                          "graceUntil":  "2026-08-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u824418288_769538750":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-06T00:00:00Z",
+                                                          "graceUntil":  "2026-08-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u628660006_505674551":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-06T00:00:00Z",
+                                                          "graceUntil":  "2026-08-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  false,
+                                                          "tierVisible":  false
+                                                      },
+                             "u137632885_321675492":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-06T00:00:00Z",
+                                                          "graceUntil":  "2026-08-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u10657252_268514205":  {
+                                                         "tierId":  "tide_friend",
+                                                         "tierRank":  1,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-07T00:00:00Z",
+                                                         "graceUntil":  "2026-08-14T00:00:00Z",
+                                                         "flags":  [
+                                                                       "board.visible",
+                                                                       "diary.access"
+                                                                   ],
+                                                         "displayStyleId":  "soft_tide",
+                                                         "boardVisible":  true,
+                                                         "tierVisible":  true
+                                                     },
+                             "u883681626_215352918":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-07T00:00:00Z",
+                                                          "graceUntil":  "2026-08-14T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u756705993_162191631":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-07T00:00:00Z",
+                                                          "graceUntil":  "2026-08-14T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u825488642_372894543":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-07T00:00:00Z",
+                                                          "graceUntil":  "2026-08-14T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u629730360_109030344":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "active",
+                                                          "expiresAt":  "2026-08-07T00:00:00Z",
+                                                          "graceUntil":  "2026-08-14T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u502754727_55869057":  {
+                                                         "tierId":  "tide_anchor",
+                                                         "tierRank":  4,
+                                                         "active":  true,
+                                                         "status":  "active",
+                                                         "expiresAt":  "2026-08-07T00:00:00Z",
+                                                         "graceUntil":  "2026-08-14T00:00:00Z",
+                                                         "flags":  [
+                                                                       "board.tierVisible",
+                                                                       "board.visible",
+                                                                       "diary.access",
+                                                                       "diary.monthlyKey",
+                                                                       "roomlog.badge",
+                                                                       "style.priority",
+                                                                       "wall.name"
+                                                                   ],
+                                                         "displayStyleId":  "anchor_blue",
+                                                         "boardVisible":  true,
+                                                         "tierVisible":  true
+                                                     },
+                             "u375779094_2707770":  {
+                                                        "tierId":  "tide_friend",
+                                                        "tierRank":  1,
+                                                        "active":  true,
+                                                        "status":  "grace",
+                                                        "expiresAt":  "2026-07-05T00:00:00Z",
+                                                        "graceUntil":  "2026-07-12T00:00:00Z",
+                                                        "flags":  [
+                                                                      "board.visible",
+                                                                      "diary.access"
+                                                                  ],
+                                                        "displayStyleId":  "soft_tide",
+                                                        "boardVisible":  true,
+                                                        "tierVisible":  true
+                                                    },
+                             "u248803461_949546492":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "grace",
+                                                          "expiresAt":  "2026-07-06T00:00:00Z",
+                                                          "graceUntil":  "2026-07-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u533799140_346435167":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "grace",
+                                                          "expiresAt":  "2026-07-06T00:00:00Z",
+                                                          "graceUntil":  "2026-07-13T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u121827828_896385205":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "grace",
+                                                          "expiresAt":  "2026-07-07T00:00:00Z",
+                                                          "graceUntil":  "2026-07-14T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u994852202_843223918":  {
+                                                          "tierId":  "tide_anchor",
+                                                          "tierRank":  4,
+                                                          "active":  true,
+                                                          "status":  "grace",
+                                                          "expiresAt":  "2026-07-08T00:00:00Z",
+                                                          "graceUntil":  "2026-07-15T00:00:00Z",
+                                                          "flags":  [
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "style.priority",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "anchor_blue",
+                                                          "boardVisible":  false,
+                                                          "tierVisible":  false
+                                                      },
+                             "u503825081_659224859":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "grace",
+                                                          "expiresAt":  "2026-07-09T00:00:00Z",
+                                                          "graceUntil":  "2026-07-16T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u376849448_606063572":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "canceled",
+                                                          "expiresAt":  "2026-08-12T00:00:00Z",
+                                                          "graceUntil":  "2026-08-19T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u249873815_552902285":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "canceled",
+                                                          "expiresAt":  "2026-08-13T00:00:00Z",
+                                                          "graceUntil":  "2026-08-20T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u639609985_734502173":  {
+                                                          "tierId":  "tide_friend",
+                                                          "tierRank":  1,
+                                                          "active":  true,
+                                                          "status":  "canceled",
+                                                          "expiresAt":  "2026-08-13T00:00:00Z",
+                                                          "graceUntil":  "2026-08-20T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.visible",
+                                                                        "diary.access"
+                                                                    ],
+                                                          "displayStyleId":  "soft_tide",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  false
+                                                      },
+                             "u122898182_499740998":  {
+                                                          "tierId":  "tide_archivist",
+                                                          "tierRank":  3,
+                                                          "active":  true,
+                                                          "status":  "canceled",
+                                                          "expiresAt":  "2026-08-14T00:00:00Z",
+                                                          "graceUntil":  "2026-08-21T00:00:00Z",
+                                                          "flags":  [
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "archive_violet",
+                                                          "boardVisible":  false,
+                                                          "tierVisible":  false
+                                                      },
+                             "u995922556_446579711":  {
+                                                          "tierId":  "tide_anchor",
+                                                          "tierRank":  4,
+                                                          "active":  true,
+                                                          "status":  "canceled",
+                                                          "expiresAt":  "2026-08-15T00:00:00Z",
+                                                          "graceUntil":  "2026-08-22T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "diary.monthlyKey",
+                                                                        "roomlog.badge",
+                                                                        "style.priority",
+                                                                        "wall.name"
+                                                                    ],
+                                                          "displayStyleId":  "anchor_blue",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      },
+                             "u868946923_393418424":  {
+                                                          "tierId":  "tide_keeper",
+                                                          "tierRank":  2,
+                                                          "active":  true,
+                                                          "status":  "canceled",
+                                                          "expiresAt":  "2026-08-16T00:00:00Z",
+                                                          "graceUntil":  "2026-08-23T00:00:00Z",
+                                                          "flags":  [
+                                                                        "board.tierVisible",
+                                                                        "board.visible",
+                                                                        "diary.access",
+                                                                        "roomlog.badge"
+                                                                    ],
+                                                          "displayStyleId":  "keeper_gold",
+                                                          "boardVisible":  true,
+                                                          "tierVisible":  true
+                                                      }
                          }
 }
