@@ -1,46 +1,46 @@
 {
-    "schemaVersion":  1,
-    "generatedAt":  "2026-07-12T01:09:22Z",
-    "styles":  [
-                   {
-                       "styleId":  "soft_tide",
-                       "color":  "#7BC7D9",
-                       "sizeRank":  1,
-                       "priority":  10,
-                       "randomWeight":  1,
-                       "alwaysVisible":  false
-                   },
-                   {
-                       "styleId":  "keeper_gold",
-                       "color":  "#E4B84A",
-                       "sizeRank":  2,
-                       "priority":  20,
-                       "randomWeight":  1,
-                       "alwaysVisible":  false
-                   },
-                   {
-                       "styleId":  "archive_violet",
-                       "color":  "#A98DF2",
-                       "sizeRank":  3,
-                       "priority":  30,
-                       "randomWeight":  1,
-                       "alwaysVisible":  false
-                   },
-                   {
-                       "styleId":  "anchor_blue",
-                       "color":  "#5FA8FF",
-                       "sizeRank":  4,
-                       "priority":  40,
-                       "randomWeight":  1,
-                       "alwaysVisible":  true
-                   },
-                   {
-                       "styleId":  "default",
-                       "color":  "#FFFFFF",
-                       "sizeRank":  0,
-                       "priority":  0,
-                       "randomWeight":  1,
-                       "alwaysVisible":  false
-                   }
-               ]
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-10T04:16:54Z",
+  "styles": [
+    {
+      "styleId": "soft_tide",
+      "color": "#7BC7D9",
+      "sizeRank": 1,
+      "priority": 10,
+      "randomWeight": 1,
+      "alwaysVisible": false
+    },
+    {
+      "styleId": "keeper_gold",
+      "color": "#E4B84A",
+      "sizeRank": 2,
+      "priority": 20,
+      "randomWeight": 1,
+      "alwaysVisible": false
+    },
+    {
+      "styleId": "archive_violet",
+      "color": "#A98DF2",
+      "sizeRank": 3,
+      "priority": 30,
+      "randomWeight": 1,
+      "alwaysVisible": false
+    },
+    {
+      "styleId": "anchor_blue",
+      "color": "#5FA8FF",
+      "sizeRank": 4,
+      "priority": 40,
+      "randomWeight": 1,
+      "alwaysVisible": false
+    },
+    {
+      "styleId": "default",
+      "color": "#FFFFFF",
+      "sizeRank": 0,
+      "priority": 0,
+      "randomWeight": 1,
+      "alwaysVisible": false
+    }
+  ]
 }
