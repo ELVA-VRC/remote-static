@@ -1,13 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T04:16:54Z",
-  "supporterDataUpdatedAt": "2026-08-10T04:16:54Z",
-  "backendStatus": "test-preview",
-  "publicChangelog": [
-    {
-      "at": "2026-08-10T04:16:54Z",
-      "message": "Test supporter data generated for local preview."
-    }
-  ],
+  "generatedAt": "2026-08-11T06:05:42Z",
+  "supporterDataUpdatedAt": "2026-08-11T06:05:42Z",
+  "backendStatus": "ready",
+  "publicChangelog": [],
   "knownDelayMessage": "Supporter status may take time to update after payment or manual review."
 }
