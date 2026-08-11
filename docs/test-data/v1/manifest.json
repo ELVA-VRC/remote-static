@@ -1,0 +1,1859 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-11T06:13:45Z",
+  "contentVersion": "20260811061345",
+  "minWorldVersion": "0.0.0",
+  "hashVersion": "dummy-v1",
+  "hashRecipeId": "display-name-udon-stable-v1",
+  "sourceBuildId": "c2ac816fd6bde7756384ffbdfd7586cf9fc7fa86ca7326df28d268d10a53e4a5",
+  "supportersByHash": {
+    "u486375645_868664677": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-12T00:00:00Z",
+      "graceUntil": "2026-08-19T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u45141626_498906579": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-13T00:00:00Z",
+      "graceUntil": "2026-08-20T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u298968280_837432472": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-14T00:00:00Z",
+      "graceUntil": "2026-08-21T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u287569931_997855423": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-15T00:00:00Z",
+      "graceUntil": "2026-08-22T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u254614027_543988746": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-16T00:00:00Z",
+      "graceUntil": "2026-08-23T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u372734496_696738921": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-17T00:00:00Z",
+      "graceUntil": "2026-08-24T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u265407263_488366214": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-18T00:00:00Z",
+      "graceUntil": "2026-08-25T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u173658497_934920926": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-19T00:00:00Z",
+      "graceUntil": "2026-08-26T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u456001682_414498669": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-20T00:00:00Z",
+      "graceUntil": "2026-08-27T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u435582849_202047782": {
+      "tierId": "tide_anchor",
+      "tierRank": 4,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-21T00:00:00Z",
+      "graceUntil": "2026-08-28T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "anchor_blue",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u591378677_20524416": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-22T00:00:00Z",
+      "graceUntil": "2026-08-29T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u117268179_799054400": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-23T00:00:00Z",
+      "graceUntil": "2026-08-30T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u684150239_622279863": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-24T00:00:00Z",
+      "graceUntil": "2026-08-31T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u767045887_590824992": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-25T00:00:00Z",
+      "graceUntil": "2026-09-01T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u150659517_583248534": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-27T00:00:00Z",
+      "graceUntil": "2026-09-03T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u565412799_810354749": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-28T00:00:00Z",
+      "graceUntil": "2026-09-04T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u92607904_331165490": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-12T00:00:00Z",
+      "graceUntil": "2026-08-19T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u109043124_311544415": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-13T00:00:00Z",
+      "graceUntil": "2026-08-20T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u894199770_988336508": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-14T00:00:00Z",
+      "graceUntil": "2026-08-21T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u43128607_899646838": {
+      "tierId": "tide_anchor",
+      "tierRank": 4,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-15T00:00:00Z",
+      "graceUntil": "2026-08-22T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "anchor_blue",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u968037580_571987792": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-16T00:00:00Z",
+      "graceUntil": "2026-08-23T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u427849013_950818438": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-17T00:00:00Z",
+      "graceUntil": "2026-08-24T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u702072110_708665949": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-18T00:00:00Z",
+      "graceUntil": "2026-08-25T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u419940486_919123922": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-19T00:00:00Z",
+      "graceUntil": "2026-08-26T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u13402767_304884732": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-20T00:00:00Z",
+      "graceUntil": "2026-08-27T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u320498893_213888581": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-21T00:00:00Z",
+      "graceUntil": "2026-08-28T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u233377625_637699719": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-22T00:00:00Z",
+      "graceUntil": "2026-08-29T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u363166799_715562362": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-23T00:00:00Z",
+      "graceUntil": "2026-08-30T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u985431186_329507246": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-24T00:00:00Z",
+      "graceUntil": "2026-08-31T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "archive_violet",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u156026339_848238954": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-25T00:00:00Z",
+      "graceUntil": "2026-09-01T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "archive_violet",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u108060938_740253857": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-26T00:00:00Z",
+      "graceUntil": "2026-09-02T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u930513165_898921199": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-27T00:00:00Z",
+      "graceUntil": "2026-09-03T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u787323849_459210323": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-28T00:00:00Z",
+      "graceUntil": "2026-09-04T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u71471422_677643609": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-12T00:00:00Z",
+      "graceUntil": "2026-08-19T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u820458928_797951354": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-14T00:00:00Z",
+      "graceUntil": "2026-08-21T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u898215466_601740600": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-16T00:00:00Z",
+      "graceUntil": "2026-08-23T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u276810000_446652011": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-17T00:00:00Z",
+      "graceUntil": "2026-08-24T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u802454698_797770657": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-18T00:00:00Z",
+      "graceUntil": "2026-08-25T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u306736776_998400952": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-19T00:00:00Z",
+      "graceUntil": "2026-08-26T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u711631473_294793243": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-20T00:00:00Z",
+      "graceUntil": "2026-08-27T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u307237360_327427450": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-21T00:00:00Z",
+      "graceUntil": "2026-08-28T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u120407629_838193703": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-22T00:00:00Z",
+      "graceUntil": "2026-08-29T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u271812464_178732991": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-23T00:00:00Z",
+      "graceUntil": "2026-08-30T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u299992384_534575084": {
+      "tierId": "tide_anchor",
+      "tierRank": 4,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-24T00:00:00Z",
+      "graceUntil": "2026-08-31T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "anchor_blue",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u788931374_422090682": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-25T00:00:00Z",
+      "graceUntil": "2026-09-01T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u700025443_227501397": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-26T00:00:00Z",
+      "graceUntil": "2026-09-02T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u359223447_582767624": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-27T00:00:00Z",
+      "graceUntil": "2026-09-03T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u799325302_834564178": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-28T00:00:00Z",
+      "graceUntil": "2026-09-04T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u631310799_852238383": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-12T00:00:00Z",
+      "graceUntil": "2026-08-19T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u530684189_227926202": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-13T00:00:00Z",
+      "graceUntil": "2026-08-20T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u293913745_727062997": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-14T00:00:00Z",
+      "graceUntil": "2026-08-21T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u292278443_519529472": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-15T00:00:00Z",
+      "graceUntil": "2026-08-22T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u662255178_712701333": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-16T00:00:00Z",
+      "graceUntil": "2026-08-23T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u878370061_449530386": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-17T00:00:00Z",
+      "graceUntil": "2026-08-24T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u793241822_380440914": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-18T00:00:00Z",
+      "graceUntil": "2026-08-25T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u699827829_577816633": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-19T00:00:00Z",
+      "graceUntil": "2026-08-26T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u932828723_878297829": {
+      "tierId": "tide_anchor",
+      "tierRank": 4,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-20T00:00:00Z",
+      "graceUntil": "2026-08-27T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "anchor_blue",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u503985408_975310397": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-21T00:00:00Z",
+      "graceUntil": "2026-08-28T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u747800859_712879400": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-22T00:00:00Z",
+      "graceUntil": "2026-08-29T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u447029744_688593913": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-23T00:00:00Z",
+      "graceUntil": "2026-08-30T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u438913379_377235508": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-24T00:00:00Z",
+      "graceUntil": "2026-08-31T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": false,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u513803219_33025563": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-25T00:00:00Z",
+      "graceUntil": "2026-09-01T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u27359420_16872821": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-26T00:00:00Z",
+      "graceUntil": "2026-09-02T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u883119301_236764162": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-27T00:00:00Z",
+      "graceUntil": "2026-09-03T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u562472421_681298414": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-28T00:00:00Z",
+      "graceUntil": "2026-09-04T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u989761795_204544397": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-12T00:00:00Z",
+      "graceUntil": "2026-08-19T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u187437634_823011911": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-13T00:00:00Z",
+      "graceUntil": "2026-08-20T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u212974382_208276233": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-14T00:00:00Z",
+      "graceUntil": "2026-08-21T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u27231285_575148052": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-16T00:00:00Z",
+      "graceUntil": "2026-08-23T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u797799244_675932407": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-17T00:00:00Z",
+      "graceUntil": "2026-08-24T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u571919477_535071129": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-18T00:00:00Z",
+      "graceUntil": "2026-08-25T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u410127544_233572417": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-19T00:00:00Z",
+      "graceUntil": "2026-08-26T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u330141723_565150763": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-20T00:00:00Z",
+      "graceUntil": "2026-08-27T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u222044422_377564252": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-21T00:00:00Z",
+      "graceUntil": "2026-08-28T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u654812077_653916475": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-22T00:00:00Z",
+      "graceUntil": "2026-08-29T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u828392349_366555923": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-23T00:00:00Z",
+      "graceUntil": "2026-08-30T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u849532749_697760596": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-24T00:00:00Z",
+      "graceUntil": "2026-08-31T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u182012509_167227121": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-25T00:00:00Z",
+      "graceUntil": "2026-09-01T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u363306631_636014958": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-27T00:00:00Z",
+      "graceUntil": "2026-09-03T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u149230289_88007158": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-28T00:00:00Z",
+      "graceUntil": "2026-09-04T00:00:00Z",
+      "flags": [],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u306720387_364827924": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-12T00:00:00Z",
+      "graceUntil": "2026-08-19T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u716135614_897821599": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-13T00:00:00Z",
+      "graceUntil": "2026-08-20T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u291812425_325084376": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-14T00:00:00Z",
+      "graceUntil": "2026-08-21T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u128318649_711826443": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-15T00:00:00Z",
+      "graceUntil": "2026-08-22T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u865826864_74121391": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-16T00:00:00Z",
+      "graceUntil": "2026-08-23T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u679200409_230363837": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-17T00:00:00Z",
+      "graceUntil": "2026-08-24T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u355342501_961264436": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-18T00:00:00Z",
+      "graceUntil": "2026-08-25T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u467609571_886143736": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-19T00:00:00Z",
+      "graceUntil": "2026-08-26T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u133277197_80981560": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-21T00:00:00Z",
+      "graceUntil": "2026-08-28T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u894216573_849791763": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-22T00:00:00Z",
+      "graceUntil": "2026-08-29T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u299366084_354430554": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-23T00:00:00Z",
+      "graceUntil": "2026-08-30T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u152385498_10009645": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-24T00:00:00Z",
+      "graceUntil": "2026-08-31T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u95479155_437145639": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-25T00:00:00Z",
+      "graceUntil": "2026-09-01T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u651643658_575923365": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-26T00:00:00Z",
+      "graceUntil": "2026-09-02T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u123254737_83535563": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-27T00:00:00Z",
+      "graceUntil": "2026-09-03T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u164280479_162293221": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-28T00:00:00Z",
+      "graceUntil": "2026-09-04T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": false,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u771505553_348598402": {
+      "tierId": "tide_anchor",
+      "tierRank": 4,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-12T00:00:00Z",
+      "graceUntil": "2026-08-19T00:00:00Z",
+      "flags": [
+        "recognition.tenure.12m",
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "anchor_blue",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u435481775_705688780": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-13T00:00:00Z",
+      "graceUntil": "2026-08-20T00:00:00Z",
+      "flags": [
+        "recognition.tenure.12m",
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u441259538_196705015": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-15T00:00:00Z",
+      "graceUntil": "2026-08-22T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u147245136_968637978": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-16T00:00:00Z",
+      "graceUntil": "2026-08-23T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u197161913_358111827": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-17T00:00:00Z",
+      "graceUntil": "2026-08-24T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u839375124_600621587": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-18T00:00:00Z",
+      "graceUntil": "2026-08-25T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": false,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u763286466_437159392": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-19T00:00:00Z",
+      "graceUntil": "2026-08-26T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u313550982_720481303": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-20T00:00:00Z",
+      "graceUntil": "2026-08-27T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u869111109_814371683": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-21T00:00:00Z",
+      "graceUntil": "2026-08-28T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u897921027_691096301": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-23T00:00:00Z",
+      "graceUntil": "2026-08-30T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": false,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u998909011_426569957": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "canceled",
+      "expiresAt": "2026-08-24T00:00:00Z",
+      "graceUntil": "2026-08-31T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u612977576_303878832": {
+      "tierId": "tide_keeper",
+      "tierRank": 2,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-25T00:00:00Z",
+      "graceUntil": "2026-09-01T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "keeper_gold",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u381795799_317524257": {
+      "tierId": "tide_archivist",
+      "tierRank": 3,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-26T00:00:00Z",
+      "graceUntil": "2026-09-02T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "archive_violet",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u797410547_88765948": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-27T00:00:00Z",
+      "graceUntil": "2026-09-03T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": false,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u246211971_196976984": {
+      "tierId": "tide_friend",
+      "tierRank": 1,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-08-28T00:00:00Z",
+      "graceUntil": "2026-09-04T00:00:00Z",
+      "flags": [
+        "recognition.tenure.6m"
+      ],
+      "displayStyleId": "soft_tide",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    },
+    "u514037242_247957847": {
+      "tierId": "tide_anchor",
+      "tierRank": 4,
+      "active": true,
+      "status": "active",
+      "expiresAt": "2026-09-09T15:00:00Z",
+      "graceUntil": "2026-09-16T15:00:00Z",
+      "flags": [],
+      "displayStyleId": "anchor_blue",
+      "boardVisible": true,
+      "supporterEffectsEnabled": true,
+      "oneTimeThanksActive": false,
+      "oneTimeThanksUntil": null,
+      "oneTimeThanksUntilUnixSeconds": null
+    }
+  }
+}
