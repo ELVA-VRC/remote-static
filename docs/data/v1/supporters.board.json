@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T17:41:52Z",
-  "contentVersion": "20260814174152",
+  "generatedAt": "2026-08-14T17:44:12Z",
+  "contentVersion": "20260814174412",
   "boardEntries": [
     {
       "entryId": "board_0001",
@@ -10,6 +10,17 @@
       "tierRank": 3,
       "styleId": "archive_violet",
       "sortOrder": 1,
+      "surfaces": [
+        "supporterBoard"
+      ]
+    },
+    {
+      "entryId": "board_0002",
+      "publicDisplayName": "skfmfa",
+      "tierLabel": "Bloom",
+      "tierRank": 2,
+      "styleId": "keeper_gold",
+      "sortOrder": 2,
       "surfaces": [
         "supporterBoard"
       ]
