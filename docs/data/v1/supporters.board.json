@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T18:07:45Z",
-  "contentVersion": "20260814180745",
+  "generatedAt": "2026-08-14T18:32:56Z",
+  "contentVersion": "20260814183256",
   "boardEntries": [
     {
       "entryId": "board_0001",
@@ -21,6 +21,17 @@
       "tierRank": 2,
       "styleId": "keeper_gold",
       "sortOrder": 2,
+      "surfaces": [
+        "supporterBoard"
+      ]
+    },
+    {
+      "entryId": "board_0003",
+      "publicDisplayName": "\u3048\u3042",
+      "tierLabel": "Bloom",
+      "tierRank": 2,
+      "styleId": "keeper_gold",
+      "sortOrder": 3,
       "surfaces": [
         "supporterBoard"
       ]
