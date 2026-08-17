@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 2,
+  "generation": 3,
   "shard": "7",
-  "generatedAt": "2026-08-17T12:00:00.4872252+00:00",
+  "generatedAt": "2026-08-17T12:19:39.2642525+00:00",
   "nextUpdateAt": "2026-08-17T18:00:00+00:00",
   "top50": [
     {
@@ -14,12 +14,18 @@
     },
     {
       "rank": 2,
+      "publicPlayerKey": "e4e43acc2f285ff7735417e3fa22b1ec",
+      "displayName": "ᴇʟᴠᴀ",
+      "bestScore": 78
+    },
+    {
+      "rank": 3,
       "publicPlayerKey": "33333333333333333333333333333333",
       "displayName": "ELVA_ALT",
       "bestScore": 38
     },
     {
-      "rank": 3,
+      "rank": 4,
       "publicPlayerKey": "44444444444444444444444444444444",
       "displayName": "VISIBLE_VRC_NAME",
       "bestScore": 38
