@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 5,
+  "generation": 6,
   "shard": "e",
-  "generatedAt": "2026-08-18T15:41:07.0678448+00:00",
-  "nextUpdateAt": "2026-08-18T21:00:00+00:00",
+  "generatedAt": "2026-08-18T15:54:06.9696304+00:00",
+  "nextUpdateAt": "2026-08-18T21:00:00.0000000+00:00",
   "top50": [
     {
       "rank": 1,
@@ -14,29 +14,323 @@
     },
     {
       "rank": 2,
+      "publicPlayerKey": "74ee37082a631b0477410c263bd32071",
+      "displayName": "Mio",
+      "bestScore": 109
+    },
+    {
+      "rank": 3,
+      "publicPlayerKey": "08b412886cf6d7827fed195ab1049061",
+      "displayName": "Nox",
+      "bestScore": 108
+    },
+    {
+      "rank": 4,
+      "publicPlayerKey": "7a9b4e7f006ac1a01592beacfe86c99b",
+      "displayName": "Yuna",
+      "bestScore": 107
+    },
+    {
+      "rank": 5,
+      "publicPlayerKey": "eac80e6fd68bbd404f5340686a64f314",
+      "displayName": "하루빛",
+      "bestScore": 106
+    },
+    {
+      "rank": 6,
+      "publicPlayerKey": "1385766b53d5d14489a85d464df62320",
+      "displayName": "별비",
+      "bestScore": 105
+    },
+    {
+      "rank": 7,
+      "publicPlayerKey": "49c839dad8ee6b8c0cd6803ae1449d23",
+      "displayName": "月灯",
+      "bestScore": 104
+    },
+    {
+      "rank": 8,
+      "publicPlayerKey": "d7ca6819817c2152d61c48eda7681cf5",
+      "displayName": "Mochi",
+      "bestScore": 103
+    },
+    {
+      "rank": 9,
+      "publicPlayerKey": "aa6ccdcb7f81ea39c92f90248bb02b9c",
+      "displayName": "Rin",
+      "bestScore": 102
+    },
+    {
+      "rank": 10,
+      "publicPlayerKey": "d8fac99a226f99a4410da278d1c24d1d",
+      "displayName": "Ari",
+      "bestScore": 101
+    },
+    {
+      "rank": 11,
+      "publicPlayerKey": "bfe69eca4bfc8d4edf99310e44dcfbb5",
+      "displayName": "Kiri",
+      "bestScore": 100
+    },
+    {
+      "rank": 12,
+      "publicPlayerKey": "79e5f84272b4f78ed6041f87ae146901",
+      "displayName": "SilentAuroraOverStillTide",
+      "bestScore": 99
+    },
+    {
+      "rank": 13,
+      "publicPlayerKey": "11285f0af4c2bae844bd58316fecc107",
+      "displayName": "VeryLongSyntheticDisplayName_Leaderboard_01",
+      "bestScore": 98
+    },
+    {
+      "rank": 14,
+      "publicPlayerKey": "189cbcec817dada165022b345a00da22",
+      "displayName": "AsterBloom",
+      "bestScore": 97
+    },
+    {
+      "rank": 15,
+      "publicPlayerKey": "e662f2ef648a0c2b6a215b889b825596",
+      "displayName": "Azure Cat",
+      "bestScore": 96
+    },
+    {
+      "rank": 16,
+      "publicPlayerKey": "a4d742a339b7d40c25c8a365071d480d",
+      "displayName": "Berry_Glow_03",
+      "bestScore": 95
+    },
+    {
+      "rank": 17,
+      "publicPlayerKey": "b6fa9a6a6189e63565b69266e2a07ee4",
+      "displayName": "cloudloop_104",
+      "bestScore": 94
+    },
+    {
+      "rank": 18,
+      "publicPlayerKey": "58f60e19dae5423e7471fcc0d7c154d7",
+      "displayName": "CoralMoon",
+      "bestScore": 93
+    },
+    {
+      "rank": 19,
+      "publicPlayerKey": "3c816a88f0586010efb238f8da5b80ec",
+      "displayName": "Dawn Ray",
+      "bestScore": 92
+    },
+    {
+      "rank": 20,
+      "publicPlayerKey": "b3bc6e08efe2132419eeac746721b940",
+      "displayName": "Echo_Sea_07",
+      "bestScore": 91
+    },
+    {
+      "rank": 21,
+      "publicPlayerKey": "a4f46d97c487f26e5f50fa2e2761a811",
+      "displayName": "fablesky_108",
+      "bestScore": 90
+    },
+    {
+      "rank": 22,
+      "publicPlayerKey": "d0379b23fab301ebed33420e55ffc2e2",
+      "displayName": "GraceTea",
+      "bestScore": 89
+    },
+    {
+      "rank": 23,
+      "publicPlayerKey": "99b091727c5b60d553f04059bb67116f",
+      "displayName": "Halo Tide",
+      "bestScore": 88
+    },
+    {
+      "rank": 24,
+      "publicPlayerKey": "cc797d062b3f9390747e2ad8826b9311",
+      "displayName": "Indigo_Wisp_11",
+      "bestScore": 87
+    },
+    {
+      "rank": 25,
+      "publicPlayerKey": "918866e06507656f5808e28070e01f67",
+      "displayName": "jellybloom_112",
+      "bestScore": 86
+    },
+    {
+      "rank": 26,
+      "publicPlayerKey": "c40a2fe690f11ca33a7c530eb4152bed",
+      "displayName": "LunaCat",
+      "bestScore": 85
+    },
+    {
+      "rank": 27,
+      "publicPlayerKey": "53a4fdd49adebe5372de1aef282d6fe7",
+      "displayName": "Maple Glow",
+      "bestScore": 84
+    },
+    {
+      "rank": 28,
+      "publicPlayerKey": "6d73ef21faa0e44394f5951235f139a7",
+      "displayName": "Mint_Loop_15",
+      "bestScore": 83
+    },
+    {
+      "rank": 29,
+      "publicPlayerKey": "23e2059bea0eff96cd4b1d2c65a6412a",
+      "displayName": "mistymoon_116",
+      "bestScore": 82
+    },
+    {
+      "rank": 30,
+      "publicPlayerKey": "4d597af502441a064c4781d3c701eac0",
+      "displayName": "NovaRay",
+      "bestScore": 81
+    },
+    {
+      "rank": 31,
+      "publicPlayerKey": "59587c2d26a4963ca8eee8aef0029651",
+      "displayName": "Opal Sea",
+      "bestScore": 80
+    },
+    {
+      "rank": 32,
+      "publicPlayerKey": "346968cbf68f7711268c8fd1b1afad5b",
+      "displayName": "Orbit_Sky_19",
+      "bestScore": 79
+    },
+    {
+      "rank": 33,
+      "publicPlayerKey": "22b87d767043e0d85ddaa703b8794703",
+      "displayName": "pearltea_120",
+      "bestScore": 78
+    },
+    {
+      "rank": 34,
       "publicPlayerKey": "e4e43acc2f285ff7735417e3fa22b1ec",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 78
     },
     {
-      "rank": 3,
-      "publicPlayerKey": "33333333333333333333333333333333",
-      "displayName": "ELVA_ALT",
-      "bestScore": 38
+      "rank": 35,
+      "publicPlayerKey": "3a63c988b7724af0cd9773bea70a5c24",
+      "displayName": "PixelTide",
+      "bestScore": 77
     },
     {
-      "rank": 4,
-      "publicPlayerKey": "44444444444444444444444444444444",
-      "displayName": "VISIBLE_VRC_NAME",
-      "bestScore": 38
+      "rank": 36,
+      "publicPlayerKey": "077f9e18dc6baadf3368cc727271b249",
+      "displayName": "Quartz Wisp",
+      "bestScore": 76
+    },
+    {
+      "rank": 37,
+      "publicPlayerKey": "fc871876ba6a00b856b5b1571f529681",
+      "displayName": "Raven_Bloom_23",
+      "bestScore": 75
+    },
+    {
+      "rank": 38,
+      "publicPlayerKey": "485f1a12d464983cc7a7d5863ee9d977",
+      "displayName": "soracat_124",
+      "bestScore": 74
+    },
+    {
+      "rank": 39,
+      "publicPlayerKey": "fde3be6399e9ce9f7fc9eb737cd6d8d2",
+      "displayName": "ToriGlow",
+      "bestScore": 73
+    },
+    {
+      "rank": 40,
+      "publicPlayerKey": "08b3a2be512036e3895f6570c6d8e65e",
+      "displayName": "Willow Loop",
+      "bestScore": 72
+    },
+    {
+      "rank": 41,
+      "publicPlayerKey": "db0a169454af14eb3dd73e0d3ff70250",
+      "displayName": "Aster_Ray_27",
+      "bestScore": 71
+    },
+    {
+      "rank": 42,
+      "publicPlayerKey": "f9db99bb973f1a3bdda49afcb464ebb7",
+      "displayName": "azuresea_128",
+      "bestScore": 70
+    },
+    {
+      "rank": 43,
+      "publicPlayerKey": "057552e96685769b7c1c7cab859f8207",
+      "displayName": "BerrySky",
+      "bestScore": 69
+    },
+    {
+      "rank": 44,
+      "publicPlayerKey": "0280dcd0565a10551db1241ef7372ab7",
+      "displayName": "Cloud Tea",
+      "bestScore": 68
+    },
+    {
+      "rank": 45,
+      "publicPlayerKey": "c7ac157171804f4a8c0bb1c79cbf21d9",
+      "displayName": "Coral_Tide_31",
+      "bestScore": 67
+    },
+    {
+      "rank": 46,
+      "publicPlayerKey": "fb865d81981d7aaec6d039a49022bf23",
+      "displayName": "dawnwisp_132",
+      "bestScore": 66
+    },
+    {
+      "rank": 47,
+      "publicPlayerKey": "f6d3213d33df156db1fb043edd477620",
+      "displayName": "EchoBloom",
+      "bestScore": 65
+    },
+    {
+      "rank": 48,
+      "publicPlayerKey": "79f8d21bc5fad2518b167f890c3d5601",
+      "displayName": "Fable Cat",
+      "bestScore": 64
+    },
+    {
+      "rank": 49,
+      "publicPlayerKey": "3bc844514512ff96a2662bbd20a06250",
+      "displayName": "Grace_Glow_35",
+      "bestScore": 63
+    },
+    {
+      "rank": 50,
+      "publicPlayerKey": "f2604abc637d77c6f52b4161f12fbe5c",
+      "displayName": "haloloop_136",
+      "bestScore": 62
     }
   ],
   "entries": [
     {
-      "rank": 2,
+      "rank": 5,
+      "publicPlayerKey": "eac80e6fd68bbd404f5340686a64f314",
+      "displayName": "하루빛",
+      "bestScore": 106
+    },
+    {
+      "rank": 15,
+      "publicPlayerKey": "e662f2ef648a0c2b6a215b889b825596",
+      "displayName": "Azure Cat",
+      "bestScore": 96
+    },
+    {
+      "rank": 34,
       "publicPlayerKey": "e4e43acc2f285ff7735417e3fa22b1ec",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 78
+    },
+    {
+      "rank": 58,
+      "publicPlayerKey": "e988dd68990d536a60516ae7a0abd13d",
+      "displayName": "opalbloom_144",
+      "bestScore": 54
     }
   ]
 }
