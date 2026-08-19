@@ -1,19 +1,25 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 7,
+  "generation": 8,
   "shard": "d",
-  "generatedAt": "2026-08-19T15:00:01.3708912+00:00",
-  "nextUpdateAt": "2026-08-19T21:00:00+00:00",
+  "generatedAt": "2026-08-19T21:00:14.3596597+00:00",
+  "nextUpdateAt": "2026-08-20T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
+      "publicPlayerKey": "5de023fd5ecdd8d426b2671c393fb5b0",
+      "displayName": "엘바보",
+      "bestScore": 179
+    },
+    {
+      "rank": 2,
       "publicPlayerKey": "3e7812c2610b9ae10d27659150677143",
       "displayName": "KAMILLE_JH",
       "bestScore": 167
     },
     {
-      "rank": 2,
+      "rank": 3,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
