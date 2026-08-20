@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 10,
+  "generation": 11,
   "shard": "9",
-  "generatedAt": "2026-08-20T09:00:10.5993072+00:00",
-  "nextUpdateAt": "2026-08-20T15:00:00+00:00",
+  "generatedAt": "2026-08-20T15:00:07.3227877+00:00",
+  "nextUpdateAt": "2026-08-20T21:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -20,6 +20,12 @@
     },
     {
       "rank": 3,
+      "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
+      "displayName": "Hoya_호야",
+      "bestScore": 99
+    },
+    {
+      "rank": 4,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
