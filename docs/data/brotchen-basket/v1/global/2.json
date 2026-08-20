@@ -1,31 +1,37 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 11,
+  "generation": 12,
   "shard": "2",
-  "generatedAt": "2026-08-20T15:00:07.3227877+00:00",
-  "nextUpdateAt": "2026-08-20T21:00:00+00:00",
+  "generatedAt": "2026-08-20T21:00:08.2941899+00:00",
+  "nextUpdateAt": "2026-08-21T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
+      "publicPlayerKey": "ab134ed8fb50c52d23c5992127d0d40d",
+      "displayName": "MUKATI",
+      "bestScore": 197
+    },
+    {
+      "rank": 2,
       "publicPlayerKey": "5de023fd5ecdd8d426b2671c393fb5b0",
       "displayName": "엘바보",
       "bestScore": 179
     },
     {
-      "rank": 2,
+      "rank": 3,
       "publicPlayerKey": "3e7812c2610b9ae10d27659150677143",
       "displayName": "KAMILLE_JH",
       "bestScore": 167
     },
     {
-      "rank": 3,
+      "rank": 4,
       "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
       "displayName": "Hoya_호야",
       "bestScore": 99
     },
     {
-      "rank": 4,
+      "rank": 5,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
@@ -33,7 +39,7 @@
   ],
   "entries": [
     {
-      "rank": 4,
+      "rank": 5,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
