@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 15,
+  "generation": 16,
   "shard": "c",
-  "generatedAt": "2026-08-21T15:00:05.6991823+00:00",
-  "nextUpdateAt": "2026-08-21T21:00:00+00:00",
+  "generatedAt": "2026-08-21T21:00:15.1680097+00:00",
+  "nextUpdateAt": "2026-08-22T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -26,12 +26,18 @@
     },
     {
       "rank": 4,
+      "publicPlayerKey": "4d3a4dcdd876875de9c16447555f7a57",
+      "displayName": "HepyRus",
+      "bestScore": 163
+    },
+    {
+      "rank": 5,
       "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
       "displayName": "Hoya_호야",
       "bestScore": 99
     },
     {
-      "rank": 5,
+      "rank": 6,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
