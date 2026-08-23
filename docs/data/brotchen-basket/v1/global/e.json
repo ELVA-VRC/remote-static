@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 23,
+  "generation": 24,
   "shard": "e",
-  "generatedAt": "2026-08-23T15:00:06.0562484+00:00",
-  "nextUpdateAt": "2026-08-23T21:00:00+00:00",
+  "generatedAt": "2026-08-23T21:00:02.2066484+00:00",
+  "nextUpdateAt": "2026-08-24T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
       "publicPlayerKey": "ab134ed8fb50c52d23c5992127d0d40d",
       "displayName": "MUKATI",
-      "bestScore": 210
+      "bestScore": 212
     },
     {
       "rank": 2,
