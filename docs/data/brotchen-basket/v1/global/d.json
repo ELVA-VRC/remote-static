@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 39,
+  "generation": 40,
   "shard": "d",
-  "generatedAt": "2026-08-27T15:00:11.9653959+00:00",
-  "nextUpdateAt": "2026-08-27T21:00:00+00:00",
+  "generatedAt": "2026-08-28T15:17:16.493232+00:00",
+  "nextUpdateAt": "2026-08-28T21:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -14,36 +14,42 @@
     },
     {
       "rank": 2,
+      "publicPlayerKey": "488f7c5422e77df7f5bdcedd0e8879ae",
+      "displayName": "RYOoooOo",
+      "bestScore": 195
+    },
+    {
+      "rank": 3,
       "publicPlayerKey": "5de023fd5ecdd8d426b2671c393fb5b0",
       "displayName": "엘바보",
       "bestScore": 179
     },
     {
-      "rank": 3,
+      "rank": 4,
       "publicPlayerKey": "3e7812c2610b9ae10d27659150677143",
       "displayName": "KAMILLE_JH",
       "bestScore": 167
     },
     {
-      "rank": 4,
+      "rank": 5,
       "publicPlayerKey": "4d3a4dcdd876875de9c16447555f7a57",
       "displayName": "HepyRus",
       "bestScore": 163
     },
     {
-      "rank": 5,
+      "rank": 6,
       "publicPlayerKey": "e53156c29515b371a146347c9d2ab864",
       "displayName": "skfmfa",
       "bestScore": 136
     },
     {
-      "rank": 6,
+      "rank": 7,
       "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
       "displayName": "Hoya_호야",
       "bestScore": 112
     },
     {
-      "rank": 7,
+      "rank": 8,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
