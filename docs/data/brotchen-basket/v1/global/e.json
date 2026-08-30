@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 49,
+  "generation": 50,
   "shard": "e",
-  "generatedAt": "2026-08-30T15:00:09.3243091+00:00",
-  "nextUpdateAt": "2026-08-30T21:00:00+00:00",
+  "generatedAt": "2026-08-30T21:00:15.4206463+00:00",
+  "nextUpdateAt": "2026-08-31T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -26,30 +26,36 @@
     },
     {
       "rank": 4,
+      "publicPlayerKey": "f9c25e2f8cba4badd9a099dc95fd34b4",
+      "displayName": "h0sh1",
+      "bestScore": 171
+    },
+    {
+      "rank": 5,
       "publicPlayerKey": "3e7812c2610b9ae10d27659150677143",
       "displayName": "KAMILLE_JH",
       "bestScore": 167
     },
     {
-      "rank": 5,
+      "rank": 6,
       "publicPlayerKey": "4d3a4dcdd876875de9c16447555f7a57",
       "displayName": "HepyRus",
       "bestScore": 163
     },
     {
-      "rank": 6,
+      "rank": 7,
       "publicPlayerKey": "e53156c29515b371a146347c9d2ab864",
       "displayName": "skfmfa",
       "bestScore": 136
     },
     {
-      "rank": 7,
+      "rank": 8,
       "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
       "displayName": "Hoya_호야",
       "bestScore": 112
     },
     {
-      "rank": 8,
+      "rank": 9,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
@@ -57,7 +63,7 @@
   ],
   "entries": [
     {
-      "rank": 6,
+      "rank": 7,
       "publicPlayerKey": "e53156c29515b371a146347c9d2ab864",
       "displayName": "skfmfa",
       "bestScore": 136
