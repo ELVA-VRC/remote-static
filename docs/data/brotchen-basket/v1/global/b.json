@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 53,
+  "generation": 54,
   "shard": "b",
-  "generatedAt": "2026-08-31T15:00:16.64816+00:00",
-  "nextUpdateAt": "2026-08-31T21:00:00+00:00",
+  "generatedAt": "2026-08-31T21:00:09.0965057+00:00",
+  "nextUpdateAt": "2026-09-01T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -44,18 +44,24 @@
     },
     {
       "rank": 7,
+      "publicPlayerKey": "dbd3c971dc223ea5a107952ff5f8d127",
+      "displayName": "えむエム",
+      "bestScore": 143
+    },
+    {
+      "rank": 8,
       "publicPlayerKey": "e53156c29515b371a146347c9d2ab864",
       "displayName": "skfmfa",
       "bestScore": 136
     },
     {
-      "rank": 8,
+      "rank": 9,
       "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
       "displayName": "Hoya_호야",
       "bestScore": 112
     },
     {
-      "rank": 9,
+      "rank": 10,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
