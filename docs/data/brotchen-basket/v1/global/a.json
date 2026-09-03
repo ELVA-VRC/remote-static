@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 64,
+  "generation": 65,
   "shard": "a",
-  "generatedAt": "2026-09-03T09:00:08.1934602+00:00",
-  "nextUpdateAt": "2026-09-03T15:00:00+00:00",
+  "generatedAt": "2026-09-03T15:00:05.7042233+00:00",
+  "nextUpdateAt": "2026-09-03T21:00:00+00:00",
   "top50": [
     {
       "rank": 1,
