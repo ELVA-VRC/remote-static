@@ -1,58 +1,58 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 65,
+  "generation": 66,
   "shard": "6",
-  "generatedAt": "2026-09-03T15:00:05.7042233+00:00",
-  "nextUpdateAt": "2026-09-03T21:00:00+00:00",
+  "generatedAt": "2026-09-03T21:00:01.9519605+00:00",
+  "nextUpdateAt": "2026-09-04T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
+      "publicPlayerKey": "5e3a6feb247512801b2ef274ce2e2081",
+      "displayName": "おしりXL",
+      "bestScore": 223
+    },
+    {
+      "rank": 2,
       "publicPlayerKey": "ab134ed8fb50c52d23c5992127d0d40d",
       "displayName": "MUKATI",
       "bestScore": 212
     },
     {
-      "rank": 2,
+      "rank": 3,
       "publicPlayerKey": "488f7c5422e77df7f5bdcedd0e8879ae",
       "displayName": "RYOoooOo",
       "bestScore": 195
     },
     {
-      "rank": 3,
-      "publicPlayerKey": "5e3a6feb247512801b2ef274ce2e2081",
-      "displayName": "おしりXL",
-      "bestScore": 189
+      "rank": 4,
+      "publicPlayerKey": "63b5b7c3a85137597ec10778c0fac5f0",
+      "displayName": "やにだるま",
+      "bestScore": 180
     },
     {
-      "rank": 4,
+      "rank": 5,
       "publicPlayerKey": "5de023fd5ecdd8d426b2671c393fb5b0",
       "displayName": "엘바보",
       "bestScore": 179
     },
     {
-      "rank": 5,
+      "rank": 6,
       "publicPlayerKey": "f9c25e2f8cba4badd9a099dc95fd34b4",
       "displayName": "h0sh1",
       "bestScore": 171
     },
     {
-      "rank": 6,
+      "rank": 7,
       "publicPlayerKey": "3e7812c2610b9ae10d27659150677143",
       "displayName": "KAMILLE_JH",
       "bestScore": 167
     },
     {
-      "rank": 7,
+      "rank": 8,
       "publicPlayerKey": "4d3a4dcdd876875de9c16447555f7a57",
       "displayName": "HepyRus",
       "bestScore": 163
-    },
-    {
-      "rank": 8,
-      "publicPlayerKey": "63b5b7c3a85137597ec10778c0fac5f0",
-      "displayName": "やにだるま",
-      "bestScore": 159
     },
     {
       "rank": 9,
@@ -87,10 +87,10 @@
   ],
   "entries": [
     {
-      "rank": 8,
+      "rank": 4,
       "publicPlayerKey": "63b5b7c3a85137597ec10778c0fac5f0",
       "displayName": "やにだるま",
-      "bestScore": 159
+      "bestScore": 180
     },
     {
       "rank": 12,
