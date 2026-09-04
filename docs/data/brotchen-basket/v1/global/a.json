@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 69,
+  "generation": 70,
   "shard": "a",
-  "generatedAt": "2026-09-04T15:00:01.3783431+00:00",
-  "nextUpdateAt": "2026-09-04T21:00:00+00:00",
+  "generatedAt": "2026-09-04T21:00:06.1467261+00:00",
+  "nextUpdateAt": "2026-09-05T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -14,57 +14,57 @@
     },
     {
       "rank": 2,
+      "publicPlayerKey": "e53156c29515b371a146347c9d2ab864",
+      "displayName": "skfmfa",
+      "bestScore": 225
+    },
+    {
+      "rank": 3,
       "publicPlayerKey": "ab134ed8fb50c52d23c5992127d0d40d",
       "displayName": "MUKATI",
       "bestScore": 212
     },
     {
-      "rank": 3,
+      "rank": 4,
       "publicPlayerKey": "488f7c5422e77df7f5bdcedd0e8879ae",
       "displayName": "RYOoooOo",
       "bestScore": 195
     },
     {
-      "rank": 4,
+      "rank": 5,
       "publicPlayerKey": "63b5b7c3a85137597ec10778c0fac5f0",
       "displayName": "やにだるま",
       "bestScore": 180
     },
     {
-      "rank": 5,
+      "rank": 6,
       "publicPlayerKey": "5de023fd5ecdd8d426b2671c393fb5b0",
       "displayName": "엘바보",
       "bestScore": 179
     },
     {
-      "rank": 6,
+      "rank": 7,
       "publicPlayerKey": "f9c25e2f8cba4badd9a099dc95fd34b4",
       "displayName": "h0sh1",
       "bestScore": 171
     },
     {
-      "rank": 7,
+      "rank": 8,
       "publicPlayerKey": "3e7812c2610b9ae10d27659150677143",
       "displayName": "KAMILLE_JH",
       "bestScore": 167
     },
     {
-      "rank": 8,
+      "rank": 9,
       "publicPlayerKey": "4d3a4dcdd876875de9c16447555f7a57",
       "displayName": "HepyRus",
       "bestScore": 163
     },
     {
-      "rank": 9,
+      "rank": 10,
       "publicPlayerKey": "dbd3c971dc223ea5a107952ff5f8d127",
       "displayName": "えむエム",
       "bestScore": 143
-    },
-    {
-      "rank": 10,
-      "publicPlayerKey": "e53156c29515b371a146347c9d2ab864",
-      "displayName": "skfmfa",
-      "bestScore": 136
     },
     {
       "rank": 11,
@@ -87,7 +87,7 @@
   ],
   "entries": [
     {
-      "rank": 2,
+      "rank": 3,
       "publicPlayerKey": "ab134ed8fb50c52d23c5992127d0d40d",
       "displayName": "MUKATI",
       "bestScore": 212
