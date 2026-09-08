@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 84,
+  "generation": 85,
   "shard": "2",
-  "generatedAt": "2026-09-08T09:00:06.7305004+00:00",
-  "nextUpdateAt": "2026-09-08T15:00:00+00:00",
+  "generatedAt": "2026-09-08T15:00:07.1963337+00:00",
+  "nextUpdateAt": "2026-09-08T21:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -26,21 +26,21 @@
     },
     {
       "rank": 4,
+      "publicPlayerKey": "5de023fd5ecdd8d426b2671c393fb5b0",
+      "displayName": "Mock_VRC",
+      "bestScore": 211
+    },
+    {
+      "rank": 5,
       "publicPlayerKey": "488f7c5422e77df7f5bdcedd0e8879ae",
       "displayName": "RYOoooOo",
       "bestScore": 195
     },
     {
-      "rank": 5,
+      "rank": 6,
       "publicPlayerKey": "63b5b7c3a85137597ec10778c0fac5f0",
       "displayName": "やにだるま",
       "bestScore": 180
-    },
-    {
-      "rank": 6,
-      "publicPlayerKey": "5de023fd5ecdd8d426b2671c393fb5b0",
-      "displayName": "엘바보",
-      "bestScore": 179
     },
     {
       "rank": 7,
