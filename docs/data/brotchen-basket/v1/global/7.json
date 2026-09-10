@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 93,
+  "generation": 94,
   "shard": "7",
-  "generatedAt": "2026-09-10T15:00:02.995933+00:00",
-  "nextUpdateAt": "2026-09-10T21:00:00+00:00",
+  "generatedAt": "2026-09-10T21:00:11.5556557+00:00",
+  "nextUpdateAt": "2026-09-11T03:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -74,12 +74,18 @@
     },
     {
       "rank": 12,
+      "publicPlayerKey": "9a346e4fe0aac56fa98a06582b0e579b",
+      "displayName": "wakamaru",
+      "bestScore": 90
+    },
+    {
+      "rank": 13,
       "publicPlayerKey": "6845f56c8a72a4fa64e171f7a1340004",
       "displayName": "Tsukiyo月夜",
       "bestScore": 74
     },
     {
-      "rank": 13,
+      "rank": 14,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
