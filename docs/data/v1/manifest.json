@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T04:47:14Z",
-  "contentVersion": "20260913044714",
+  "generatedAt": "2026-09-15T00:19:21Z",
+  "contentVersion": "20260915001921",
   "minWorldVersion": "0.0.0",
   "hashVersion": "v1",
   "hashRecipeId": "display-name-udon-stable-v1",
-  "sourceBuildId": "1c3e8721f215575cbb37ad19eda1189374af6a9d9dda965c4c14297d4298b80c",
+  "sourceBuildId": "58b46cdea4218bf5dab959adcf5f7e5aef0c6f538bbc07458a774e33e65349cd",
   "supportersByHash": {
     "u769798356_632225924": {
       "tierId": "tide_keeper",
@@ -37,27 +37,12 @@
       "oneTimeThanksUntil": null,
       "oneTimeThanksUntilUnixSeconds": null
     },
-    "u23986339_521264121": {
-      "tierId": "tide_keeper",
-      "tierRank": 2,
-      "active": true,
-      "status": "active",
-      "expiresAt": "2026-09-15T00:00:00Z",
-      "graceUntil": null,
-      "flags": [],
-      "displayStyleId": "keeper_gold",
-      "boardVisible": true,
-      "supporterEffectsEnabled": true,
-      "oneTimeThanksActive": false,
-      "oneTimeThanksUntil": null,
-      "oneTimeThanksUntilUnixSeconds": null
-    },
     "u219602272_646271925": {
       "tierId": "tide_keeper",
       "tierRank": 2,
       "active": true,
       "status": "active",
-      "expiresAt": "2026-09-15T00:00:00Z",
+      "expiresAt": "2026-10-15T00:00:00Z",
       "graceUntil": null,
       "flags": [],
       "displayStyleId": "keeper_gold",
