@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 159,
+  "generation": 160,
   "shard": "f",
-  "generatedAt": "2026-09-27T03:00:04.3610119+00:00",
-  "nextUpdateAt": "2026-09-27T09:00:00+00:00",
+  "generatedAt": "2026-09-27T09:00:10.0969443+00:00",
+  "nextUpdateAt": "2026-09-27T15:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -32,56 +32,56 @@
     },
     {
       "rank": 5,
+      "publicPlayerKey": "05733521a7595a9db7bfbc0edfec77d2",
+      "displayName": "503࿇",
+      "bestScore": 206
+    },
+    {
+      "rank": 6,
       "publicPlayerKey": "488f7c5422e77df7f5bdcedd0e8879ae",
       "displayName": "RYOoooOo",
       "bestScore": 195
     },
     {
-      "rank": 6,
+      "rank": 7,
       "publicPlayerKey": "63b5b7c3a85137597ec10778c0fac5f0",
       "displayName": "やにだるま",
       "bestScore": 180
     },
     {
-      "rank": 7,
+      "rank": 8,
       "publicPlayerKey": "9a346e4fe0aac56fa98a06582b0e579b",
       "displayName": "wakamaru",
       "bestScore": 174
     },
     {
-      "rank": 8,
+      "rank": 9,
       "publicPlayerKey": "f9c25e2f8cba4badd9a099dc95fd34b4",
       "displayName": "h0sh1",
       "bestScore": 171
     },
     {
-      "rank": 9,
+      "rank": 10,
       "publicPlayerKey": "3e7812c2610b9ae10d27659150677143",
       "displayName": "KAMILLE_JH",
       "bestScore": 167
     },
     {
-      "rank": 10,
+      "rank": 11,
       "publicPlayerKey": "4d3a4dcdd876875de9c16447555f7a57",
       "displayName": "HepyRus",
       "bestScore": 163
     },
     {
-      "rank": 11,
+      "rank": 12,
       "publicPlayerKey": "dbd3c971dc223ea5a107952ff5f8d127",
       "displayName": "えむエム",
       "bestScore": 143
     },
     {
-      "rank": 12,
+      "rank": 13,
       "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
       "displayName": "Hoya_호야",
-      "bestScore": 112
-    },
-    {
-      "rank": 13,
-      "publicPlayerKey": "05733521a7595a9db7bfbc0edfec77d2",
-      "displayName": "503࿇",
       "bestScore": 112
     },
     {
@@ -99,7 +99,7 @@
   ],
   "entries": [
     {
-      "rank": 8,
+      "rank": 9,
       "publicPlayerKey": "f9c25e2f8cba4badd9a099dc95fd34b4",
       "displayName": "h0sh1",
       "bestScore": 171
