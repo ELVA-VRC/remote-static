@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 233,
+  "generation": 234,
   "shard": "d",
-  "generatedAt": "2026-10-15T21:00:11.106763+00:00",
-  "nextUpdateAt": "2026-10-16T03:00:00+00:00",
+  "generatedAt": "2026-10-16T03:00:11.4359531+00:00",
+  "nextUpdateAt": "2026-10-16T09:00:00+00:00",
   "top50": [
     {
       "rank": 1,
       "publicPlayerKey": "5e3a6feb247512801b2ef274ce2e2081",
       "displayName": "おしりXL",
-      "bestScore": 261
+      "bestScore": 267
     },
     {
       "rank": 2,
