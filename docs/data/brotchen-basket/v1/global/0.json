@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "rulesetVersion": "bb1",
-  "generation": 324,
+  "generation": 325,
   "shard": "0",
-  "generatedAt": "2026-11-08T03:00:07.4860624+00:00",
-  "nextUpdateAt": "2026-11-08T09:00:00+00:00",
+  "generatedAt": "2026-11-11T11:51:25.2874326+00:00",
+  "nextUpdateAt": "2026-11-11T15:00:00+00:00",
   "top50": [
     {
       "rank": 1,
@@ -74,24 +74,36 @@
     },
     {
       "rank": 12,
+      "publicPlayerKey": "3c9bee6e7e9a174193f81c1218943a28",
+      "displayName": "みにどりる",
+      "bestScore": 163
+    },
+    {
+      "rank": 13,
       "publicPlayerKey": "dbd3c971dc223ea5a107952ff5f8d127",
       "displayName": "えむエム",
       "bestScore": 143
     },
     {
-      "rank": 13,
+      "rank": 14,
       "publicPlayerKey": "59cedc9e44b38e57af786857f1828387",
       "displayName": "Hoya_호야",
       "bestScore": 112
     },
     {
-      "rank": 14,
+      "rank": 15,
       "publicPlayerKey": "6845f56c8a72a4fa64e171f7a1340004",
       "displayName": "Tsukiyo月夜",
       "bestScore": 74
     },
     {
-      "rank": 15,
+      "rank": 16,
+      "publicPlayerKey": "1d08e7f74a357c71338c2c0393219810",
+      "displayName": "ﾇｯﾇﾇ",
+      "bestScore": 68
+    },
+    {
+      "rank": 17,
       "publicPlayerKey": "2fbb3bb25f558826d0e4b0226a938236",
       "displayName": "ᴇʟᴠᴀ",
       "bestScore": 53
