@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T00:54:46Z",
-  "contentVersion": "20261113005446",
+  "generatedAt": "2026-11-13T01:46:21Z",
+  "contentVersion": "20261113014621",
   "minWorldVersion": "0.0.0",
   "hashVersion": "v1",
   "hashRecipeId": "display-name-udon-stable-v1",
-  "sourceBuildId": "2d918892b1c1b45e6f658b10b1ab55e2db662184f1801f2cf29eb4079770e8fb",
+  "sourceBuildId": "a78fb591959ccfb76f4a4b5ff8c76347b1fa9d30d4461d60361c542f4dd9c09c",
   "supportersByHash": {
     "u769798356_632225924": {
       "tierId": "tide_keeper",
