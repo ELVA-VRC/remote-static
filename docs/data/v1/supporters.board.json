@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T01:46:21Z",
-  "contentVersion": "20261113014621",
+  "generatedAt": "2026-11-15T00:56:35Z",
+  "contentVersion": "20261115005635",
   "boardEntries": [
     {
       "entryId": "board_0001",
@@ -10,17 +10,6 @@
       "tierRank": 3,
       "styleId": "archive_violet",
       "sortOrder": 1,
-      "surfaces": [
-        "supporterBoard"
-      ]
-    },
-    {
-      "entryId": "board_0002",
-      "publicDisplayName": "\u3048\u3042",
-      "tierLabel": "Bloom",
-      "tierRank": 2,
-      "styleId": "keeper_gold",
-      "sortOrder": 2,
       "surfaces": [
         "supporterBoard"
       ]
